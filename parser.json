@@ -1,6 +1,6 @@
 {
-  "lang": "scala",
   "url": "https://github.com/tree-sitter/tree-sitter-scala",
   "semver": false,
-  "parser_version": "14c5cfd2b8e0f057ba0f4f72ee4812b0ae6cdce3"
+  "parser_version": "14c5cfd2b8e0f057ba0f4f72ee4812b0ae6cdce3",
+  "lang": "scala"
 }
